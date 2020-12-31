@@ -1,4 +1,4 @@
-package com.tpspringsecurity.Controllers;
+package com.tpspringsecurity.config;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.web.DefaultRedirectStrategy;

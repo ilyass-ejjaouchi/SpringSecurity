@@ -1,4 +1,4 @@
-package com.tpspringsecurity.Controllers;
+package com.tpspringsecurity;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
